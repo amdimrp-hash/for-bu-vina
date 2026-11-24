@@ -271,36 +271,34 @@ button:hover {
             <p>
                 Terima kasih, Bu, karena sudah menjadi
                 sosok guru yang memberikan ilmu dan
-                membimbing kami. Saya tahu bahwa
+                membimbing saya. Saya tahu bahwa
                 mengajar bukanlah pekerjaan yang
                 selalu mudah. Ada banyak hal yang
                 harus Ibu hadapi, mulai dari
                 mempersiapkan materi, menjelaskan
-                pelajaran berulang kali, hingga
-                menghadapi berbagai macam karakter
-                murid di kelas.
+                pelajaran berulang kali, 
             </p>
 
             <p>
-                Apalagi matematika. Terkadang kami
+                Apalagi matematika. Terkadang saya
                 membutuhkan waktu lebih lama untuk
                 memahami satu rumus, terkadang salah
                 menghitung, bahkan mungkin ada saat
-                ketika kami belum memperhatikan
+                ketika saya belum memperhatikan
                 penjelasan Ibu dengan baik.
                 Namun, terima kasih karena Ibu tetap
-                berusaha mengajarkan kami.
+                berusaha mengajarkan saya.
             </p>
 
             <p>
-                Mungkin suatu saat nanti kami akan
+                Mungkin suatu saat nanti saya akan
                 lupa beberapa rumus yang pernah
                 dipelajari, lupa cara mengerjakan
                 soal-soal tertentu, atau bahkan lupa
-                halaman buku yang pernah kami buka.
-                Tetapi saya berharap kami tidak akan
+                halaman buku yang pernah saya buka.
+                Tetapi saya berharap saya tidak akan
                 melupakan orang-orang yang pernah
-                berusaha memberikan ilmu kepada kami.
+                berusaha memberikan ilmu kepada diriku.
             </p>
 
             <p>
@@ -341,17 +339,17 @@ button:hover {
             </p>
 
             <p>
-                Dan jika suatu hari nanti kami sudah
+                Dan jika suatu hari nanti saya sudah
                 melangkah jauh, semoga Ibu tahu
-                bahwa ada murid-murid yang pernah
-                belajar di kelas Ibu dan membawa
+                bahwa saya murid yang pernah
+                belajar bersama ibu dan membawa
                 sebagian ilmu serta nasihat Ibu
-                dalam perjalanan hidup mereka.
+                dalam perjalanan hidup saya.
             </p>
 
             <p>
                 Terima kasih sudah menjadi guru
-                Matematika yang berarti bagi kami.
+                Matematika yang berarti bagi saya.
                 Karena ternyata, tidak semua hal
                 berharga dalam hidup bisa dihitung
                 dengan angka.
